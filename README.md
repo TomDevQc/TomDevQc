@@ -1,9 +1,11 @@
 ## Hi there 👋
 
+- 🌱 I’m currently working on smart greenhouse
+- 💬 Back-End Developper & Graphic Designer
+- 📫 How to reach me: thomas@vexastudio.com
+- ⚡ Fun fact: CEO @ [MSC Ecosmos]([place2](https://msc.vexa.agency/))
 <!--
-**TomDevQc/TomDevQc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
