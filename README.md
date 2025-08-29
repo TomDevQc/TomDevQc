@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I’m currently working on smart greenhouse
+- 🌱 I’m currently working on a smart greenhouse
 - 💬 Back-End Developper & Graphic Designer
 - 📫 How to reach me: thomas@vexastudio.com
 - ⚡ Fun fact: CEO @ [MSC Ecosmos](https://msc.vexa.agency/)
